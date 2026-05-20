@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0420,100:2a0f4a&height=220&section=header&text=NOAH%20MURPHY&fontSize=72&fontColor=c4a3ff&fontAlign=50&fontAlignY=42&desc=Cybersecurity%20Analyst%20//%20DFIR%20//%20Threat%20Intelligence&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0420,100:2a0f4a&height=220&section=header&text=NOAH%20MURPHY&fontSize=72&fontColor=9d7aff&fontAlign=50&fontAlignY=42&desc=Cybersecurity%20Analyst%20//%20DFIR%20//%20Threat%20Intelligence&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="banner"/>
 
 <div align="center">
 
