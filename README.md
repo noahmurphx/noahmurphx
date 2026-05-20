@@ -6,7 +6,7 @@
 
 ### `M.S. Cybersecurity & Information Assurance · Western Governors University`
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[noahlmurphy/])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noahlmurphy/)
 [![Resume](https://img.shields.io/badge/RESUME-_DOWNLOAD-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white)]([RESUME_URL])
 [![Profile Views](https://komarev.com/ghpvc/?username=[noahmurphx]&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge)](#)
 
@@ -159,7 +159,7 @@ Ongoing CTF participation and bug bounty work spanning web exploitation, binary 
 
 Open to entry-level cybersecurity roles in DFIR, threat intelligence, and security analysis. Based in Providence, RI; relocating to Colorado for the right opportunity.
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[noahlmurphy/])
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noahlmurphy/)
 
 </div>
 
