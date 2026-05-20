@@ -7,7 +7,7 @@
 ### `M.S. Cybersecurity & Information Assurance · Western Governors University`
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noahlmurphy/)
-[![Resume](https://img.shields.io/badge/RESUME-_DOWNLOAD-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white)]([RESUME_URL])
+[![Resume](https://img.shields.io/badge/RESUME-_DOWNLOAD-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/noahmurphx/noahmurphx/blob/main/Resume_Noah_Murphy.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=noahmurphx&label=PROFILE+VIEWS&color=9d7aff&style=for-the-badge)](#)
 
 ![CompTIA SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-c8202f?style=flat-square&logo=comptia&logoColor=white)
