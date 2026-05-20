@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0e1a,100:1a1a3e&height=220&section=header&text=NOAH%20MURPHY&fontSize=72&fontColor=00d9ff&fontAlign=50&fontAlignY=42&desc=Cybersecurity%20Analyst%20//%20DFIR%20//%20Threat%20Intelligence&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0420,100:2a0f4a&height=220&section=header&text=NOAH%20MURPHY&fontSize=72&fontColor=c4a3ff&fontAlign=50&fontAlignY=42&desc=Cybersecurity%20Analyst%20//%20DFIR%20//%20Threat%20Intelligence&descSize=18&descAlign=50&descAlignY=62" width="100%" alt="banner"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noahlmurphy/)
 [![Resume](https://img.shields.io/badge/RESUME-_DOWNLOAD-7c3aed?style=for-the-badge&logo=readthedocs&logoColor=white)]([RESUME_URL])
-[![Profile Views](https://komarev.com/ghpvc/?username=noahmurphx&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=noahmurphx&label=PROFILE+VIEWS&color=c4a3ff&style=for-the-badge)](#)
 
 ![CompTIA SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-c8202f?style=flat-square&logo=comptia&logoColor=white)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-c8202f?style=flat-square&logo=comptia&logoColor=white)
@@ -163,4 +163,4 @@ Open to entry-level cybersecurity roles in DFIR, threat intelligence, and securi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a3e,100:0a0e1a&height=80&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2a0f4a,100:0d0420&height=80&section=footer" width="100%" alt="footer"/>
