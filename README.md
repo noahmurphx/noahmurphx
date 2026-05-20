@@ -39,7 +39,7 @@ Investigated a Defender alert on personal hardware after a suspected ClickFix so
 
 <!-- <img src="assets/clickfix-writeup.png" width="100%" alt="ClickFix IR writeup"/> -->
 
-[**▶ VIEW WRITEUP**](#)
+[**▶ VIEW WRITEUP**](https://github.com/noahmurphx/clickfix-incident-response)
 
 </td>
 <td width="50%" valign="top">
