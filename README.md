@@ -87,7 +87,7 @@ React and Express.js app that ingests Polymarket contracts and surfaces misprice
 
 <!-- <img src="assets/polymarket-app.png" width="100%" alt="Polymarket Edge Finder"/> -->
 
-[**▶ VIEW REPOSITORY**](#)
+[**▶ VIEW REPOSITORY**](https://github.com/noahmurphx/polymarket-edge-finder)
 
 </td>
 </tr>
