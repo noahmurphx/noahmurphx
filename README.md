@@ -120,7 +120,7 @@ Ongoing CTF participation and bug bounty work spanning web exploitation, binary 
 
 <!-- <img src="assets/ctf-writeups.png" width="100%" alt="CTF writeups"/> -->
 
-[**▶ VIEW WRITEUPS**](#)
+[**▶ VIEW WRITEUPS**](https://github.com/noahmurphx/ctf-writeups)
 
 </td>
 </tr>
