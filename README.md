@@ -105,7 +105,7 @@ Web app for signing and verifying media files using client-side OpenPGP, with an
 
 <!-- <img src="assets/provenchain.png" width="100%" alt="ProvenChain app"/> -->
 
-[**▶ VIEW REPOSITORY**](#)
+[**▶ VIEW REPOSITORY**](https://github.com/noahmurphx/provenchain)
 
 </td>
 <td width="50%" valign="top">
