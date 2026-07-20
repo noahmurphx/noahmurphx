@@ -72,7 +72,7 @@ Collection of Python scripts that automate OSINT collection across sources, enri
 
 <!-- <img src="assets/osint-toolkit.png" width="100%" alt="OSINT toolkit"/> -->
 
-[**▶ VIEW REPOSITORY**](#)
+[**▶ VIEW REPOSITORY**](https://github.com/noahmurphx/python-osint-toolkit)
 
 </td>
 <td width="50%" valign="top">
