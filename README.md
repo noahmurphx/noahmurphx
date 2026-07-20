@@ -54,7 +54,7 @@ Suricata running in Docker on a Raspberry Pi 4, monitoring home network traffic 
 
 <!-- <img src="assets/suricata-dashboard.png" width="100%" alt="Suricata dashboard"/> -->
 
-[**▶ VIEW REPOSITORY**](#)
+[**▶ VIEW REPOSITORY**](https://github.com/noahmurphx/suricata-containerized-ids)
 
 </td>
 </tr>
